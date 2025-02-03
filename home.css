@@ -1,0 +1,49 @@
+body{
+    background-image: url("bg.jpg");
+}
+ul li{
+    list-style-type: none
+}
+.card{
+    float: left;
+    margin: 1rem .05rem;
+    padding: 2rem;
+}
+.card a{
+    margin: auto;
+    border: .2rem solid black;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color: antiquewhite;
+    font-weight: bold;
+}.card a:hover{
+    background-color: aquamarine;
+    cursor: pointer;
+}a:link {
+    text-decoration: none;
+}
+.card-con{
+    background-color: antiquewhite;
+    font-size: 3rem;
+    float: left;
+    border: black 2px solid;
+    border-radius: 5rem;
+    padding: 2rem;
+    margin: 1rem;
+}
+.btTop-btn{
+    color: azure;
+    border: .2rem solid black;
+    padding: 1rem;
+    border-radius: 1rem;
+    background-color:brown;
+    font-size: 3rem;
+    position: fixed;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+    bottom: 0;
+    right: 0;
+}.btTop-btn:hover{
+    color: black;
+    background-color:greenyellow;
+}
