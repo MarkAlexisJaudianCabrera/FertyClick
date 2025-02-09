@@ -4,9 +4,6 @@
 body{
     background-image: url("bg.jpg");
 }
-ul li{
-    list-style-type: none
-}
 .card{
     float: left;
     margin: 1rem .05rem;
