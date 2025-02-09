@@ -4,7 +4,7 @@
 body{
     background-image: url("bg.jpg");
 }
-.card{
+.card{ 
     float: left;
     margin: 1rem .05rem;
     padding: 2rem;
